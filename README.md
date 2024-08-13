@@ -1,2 +1,3 @@
 # Facebook_Nodejs
-Using NodeJS
+HTML, CSS, JavaScript
+NodeJs, Docker, Postman, TablePlus
